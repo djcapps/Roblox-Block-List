@@ -5,6 +5,16 @@
 ||rbxlabs.com^
 ||rbxcdn.net^
 
+! Core Roblox Network Infrastructure
+||roblox.com^
+||rbxcdn.com^
+||rbxinfra.com^
+||rbxinfra.net^
+||rbxtrk.com^
+||rblx.com^
+||rbx.com^
+
+
 ! Regional Domains
 ||roblox.cn^
 ||roblox.ca^
