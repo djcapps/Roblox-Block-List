@@ -61,3 +61,6 @@
 ||roadblocks.com^
 ||rowblocks.com^
 ||rowblox.com^
+
+!From Query Log
+||ncs.roblox.com
